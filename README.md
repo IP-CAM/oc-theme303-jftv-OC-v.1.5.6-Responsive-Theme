@@ -7,6 +7,6 @@
 <h3 align="center">Requirements</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/OpenCart-1.5.6+-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/PHP-5.6+.svg"></a>
+  <a><img src="https://img.shields.io/badge/PHP-5.6.svg"></a>
   <a><img src="https://img.shields.io/badge/Apache-red.svg"></a>
   <a><img src="https://img.shields.io/badge/MySQL-red.svg"></a>
